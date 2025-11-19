@@ -1,4 +1,4 @@
-# WifiThings is a mobile app for remotely controlling smart devices, written in Kotlin for Ios and Android phones.
+# WifiThings is a mobile app for remotely controlling smart devices, written in Kotlin for IoS and Android phones.
 <img width="320" height="680" alt="image" src="https://github.com/user-attachments/assets/843cd050-8ed2-404d-bb9f-d93b00d4855f"/>
 
 <img width="320" height="680" alt="image" src="https://github.com/user-attachments/assets/09707a8e-71b6-4d5e-ad0f-0322c695e3aa"/>
