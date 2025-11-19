@@ -1,0 +1,22 @@
+CREATE TABLE LampEntity (
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    ip TEXT NOT NULL,
+    isOn INTEGER NOT NULL DEFAULT 0
+);
+
+selectAll:
+SELECT * FROM LampEntity;
+
+insertLamp:
+INSERT INTO LampEntity(name, ip, isOn)
+VALUES (?, ?, ?);
+
+updateLampState:
+UPDATE LampEntity
+SET isOn = ?
+WHERE ip = ?;
+
+deleteLamp:
+DELETE FROM LampEntity
+WHERE ip = ?;
