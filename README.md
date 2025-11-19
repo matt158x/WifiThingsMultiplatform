@@ -1,9 +1,9 @@
 # WifiThings is a mobile app for remotely controlling smart devices, written in Kotlin for Ios and Android phones.
-![IMG_8904](https://github.com/user-attachments/assets/843cd050-8ed2-404d-bb9f-d93b00d4855f)
+<img width="440" height="940" alt="image" src="https://github.com/user-attachments/assets/843cd050-8ed2-404d-bb9f-d93b00d4855f"
 
-![IMG_8905](https://github.com/user-attachments/assets/09707a8e-71b6-4d5e-ad0f-0322c695e3aa)
+<img width="440" height="940" alt="image" src="https://github.com/user-attachments/assets/09707a8e-71b6-4d5e-ad0f-0322c695e3aa"
 
-![IMG_8906](https://github.com/user-attachments/assets/6548d64d-11eb-45e6-a14f-2523ade6fa4f)
+<img width="440" height="940" alt="image" src="https://github.com/user-attachments/assets/6548d64d-11eb-45e6-a14f-2523ade6fa4f"
 
 The app allows you to control IoT devices over a Wi-Fi network. Currently, the app only allows you to turn devices on and off, but can be easily expanded with additional features.
 The app uses ESP8266 microcontrollers as communication bridges, allowing you to create an affordable smart home system without investing in expensive commercial solutions.
