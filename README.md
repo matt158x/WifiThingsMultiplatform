@@ -9,11 +9,11 @@ The app allows you to control IoT devices over a Wi-Fi network. Currently, the a
 The app uses ESP8266 microcontrollers as communication bridges, allowing you to create an affordable smart home system without investing in expensive commercial solutions.
 
 ✨ Key Features
-🏠 Multi-Device Control - Add and manage multiple IoT devices
-📱 Intuitive Interface - Modern Design with Material Design 3
-⚡ Instant Response - Real-time control over WiFi
-💾 Auto-Save - Devices remain remembered after closing the app
-🌐 HTTP Communication - Simple REST API for easy integration
+- 🏠 Multi-Device Control - Add and manage multiple IoT devices
+- 📱 Intuitive Interface - Modern Design with Material Design 3
+- ⚡ Instant Response - Real-time control over WiFi
+- 💾 Auto-Save - Devices remain remembered after closing the app
+- 🌐 HTTP Communication - Simple REST API for easy integration
 
 Technologies:   
 - Kotlin Multiplatform
